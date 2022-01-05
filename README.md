@@ -3,3 +3,5 @@ Integrating starboard notebook with tiddlywiki for a better note taking experien
 
 ### How to use?
 Clone repo and open index.html in browser
+
+<img src="1.png">
