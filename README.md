@@ -1,7 +1,12 @@
 # starboard-tiddlywiki
-Integrating starboard notebook with tiddlywiki for a better note taking experience.
+Starboard-notebook(https://starboard.gg/) and TiddlyWiki5(https://tiddlywiki.com/) on the same webpage to streamline the note-taking process.
+
+<img src="1.png">
+
 
 ### How to use?
 Clone repo and open index.html in browser
 
-<img src="1.png">
+
+
+
