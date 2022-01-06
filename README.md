@@ -5,7 +5,7 @@ Starboard-notebook(https://starboard.gg/) and TiddlyWiki5(https://tiddlywiki.com
 
 
 ### How to use?
-Clone repo and open index.html in browser
+Clone repo and open index.html in browser. Please refer to the starboard and tiddlywiki documentation online for more information.
 
 
 
